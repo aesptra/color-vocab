@@ -1,0 +1,28 @@
+*{
+    font-weight: normal;
+}
+
+#red{
+    color: red;
+}
+
+#green{
+    color: green;
+}
+
+#blue{
+    color: blue;
+}
+
+#yellow{
+    color: yellow;
+}
+
+#pink{
+    color: magenta;
+}
+
+#ukuran{
+    height: 200px;
+    width: 200px;
+}
